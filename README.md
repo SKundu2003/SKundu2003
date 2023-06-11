@@ -1,6 +1,5 @@
 - 👋 Hi, I’m SOUVIK KUNDU
 - 👀 I’m interested in Web Development and Web penetration testing
-- 🌱 I’m currently learning Azure Cloud Services
 - 📫 How to reach me souvik.work2003@gmail.com that is my e-mail
 
 <!---

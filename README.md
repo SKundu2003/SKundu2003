@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a backend Developer<br>
+Innovative Software Developer with a passion for creative problem-solving and rapid prototyping, with 
+expertise in Java, Spring-Boot, Docker, Microservices Architecture, JPA-Hibernate, MongoDB, 
+Apache Kafka, etc. Proficient in deploying to Microsoft Azure and Google Cloud Platform (GCP).<br>
 
 
 ## 🌐 Socials:

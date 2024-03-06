@@ -1,7 +1,5 @@
 # 💫 About Me:
-Innovative Software Developer with a passion for creative problem-solving and rapid prototyping, with 
-expertise in Java, Spring-Boot, Docker, Microservices Architecture, JPA-Hibernate, MongoDB, 
-Apache Kafka, etc. Proficient in deploying to Microsoft Azure and Google Cloud Platform (GCP).<br>
+Experienced Software Developer adept at crafting innovative solutions with a keen eye for efficiency and reliability. Proficient in Java, Spring Boot, Hibernate, and MySQL DB, with recent mastery in advanced techniques like Spring Data JPA Projections. With over six months of hands-on experience in software engineering, I've consistently delivered high-quality products, exceeding expectations and accelerating project timelines. Passionate about continuous learning and staying ahead of industry trends, I thrive in dynamic environments where collaboration and creativity drive success.<br>
 
 
 ## 🌐 Socials:
